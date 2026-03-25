@@ -1,0 +1,13 @@
+[
+  {
+    "id": "upd-001",
+    "date": "2026-03-25",
+    "title": "Updates page created",
+    "description": "A complete log of all changes across LuckiApps, including new features, improvements, fixes and removals.",
+    "type": "new",
+    "app": "Platform",
+    "slug": "update",
+    "tags": ["new", "platform", "transparency"]
+    "important": true
+  }
+]
