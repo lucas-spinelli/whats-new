@@ -1,5 +1,18 @@
 [
   {
+    "id": "upd-002",
+    "date": "2026-03-26",
+    "title": "Chrome Extension",
+    "description": "LuckiApps is developing many Chrome extensions, and the extension button will soon be available on Lucky Apps.",
+    "type": "new",
+    "app": "Platform",
+    "slug": "future update",
+    "tags": ["new", "platform", "extension"]
+    "important": true
+  }
+]
+[
+  {
     "id": "upd-001",
     "date": "2026-03-25",
     "title": "Updates page created",
