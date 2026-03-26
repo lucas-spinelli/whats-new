@@ -6,7 +6,7 @@
     "description": "LuckiApps is developing many Chrome extensions, and the extension button will soon be available on Lucky Apps.",
     "type": "new",
     "app": "Platform",
-    "slug": "future update",
+    "slug": "update",
     "tags": ["new", "platform", "extension"]
     "important": true
   }
